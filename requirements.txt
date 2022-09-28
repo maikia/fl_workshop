@@ -1,0 +1,5 @@
+jupyter>=1.0
+matplotlib
+numpy=>1.13.3
+scikit-learn
+phe
