@@ -1,5 +1,5 @@
-jupyter>=1.0
+jupyter
 matplotlib
-numpy=>1.13.3
+numpy
 scikit-learn
 phe
