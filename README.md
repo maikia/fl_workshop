@@ -1,4 +1,4 @@
-# FL workshop
+# Federated Learning (FL) workshop
 
 ## Run locally
 `conda create -n flworkshop python=3.8`
